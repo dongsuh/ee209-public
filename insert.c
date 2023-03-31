@@ -32,7 +32,7 @@ void
 insert(int new_y)
 {  
 	int j;
-	if (num_y == 0) { // y empty so far
+	if (num_y = 0) { // y empty so far
 		y[0] = new_y;
 		return;
 	}
